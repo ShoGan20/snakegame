@@ -1,8 +1,6 @@
 #===============================================================================================#
 # Name        : snakegame.py                                                                    #
-# Description : Python version of the snake game.                                               #
-# Author      : Adrian Antonana                                                                 #
-# Date        : 29.07.2012                                                                      #
+# Description : Python version of the snake game.                                               #                                                                   #
 #===============================================================================================#
 
 # imports
