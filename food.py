@@ -1,8 +1,6 @@
 #=============================================================================#
 # Name        : food.py                                                       #
-# Description : Food class definition for the snake game                      #
-# Author      : Adrian Antonana                                               #
-# Date        : 29.07.2012                                                    #
+# Description : Food class definition for the snake game                      #                                                    #
 #=============================================================================#
 
 # imports
