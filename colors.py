@@ -1,8 +1,6 @@
 #================================================================#
 # Name        : colors.py                                        #
-# Description : Common color definitions                         #
-# Author      : Adrian Antonana                                  #
-# Date        : 29.07.2012                                       #
+# Description : Common color definitions                         #                                       #
 #================================================================#
 
 RED        = (255,0,0)
