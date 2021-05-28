@@ -1,8 +1,6 @@
 #==============================================================================================#
 # Name        : snake.py                                                                       #
-# Description : The snake class definition for the snake game.                                 #
-# Author      : Adrian Antonana                                                                #
-# Date        : 29.07.2012                                                                     #
+# Description : The snake class definition for the snake game.                                 #                                                                     #
 #==============================================================================================#
 
 # imports
